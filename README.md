@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Francis S.
 - 👀 I’m interested in all things Astrophysics & Applied Space Science Engineering (ASSE), mechanical clocks & watches, innovations/inventions, cycling, etc.
-- 🌱 I’m currently learning Astrophysics, revisiting how to draft in CAD, relearning forgotten coding ability in ZX Spectrum BASIC + Python & C.
-- 💞️ I’m looking to collaborate on CubeSat programming, space junk collection, small robotics including solving rubik cube, etc.
-- 📫 How to reach me via webform https://orbital720blog.science.blog/contact/
+- 🌱 I’m currently learning Astrophysics, reskilling on CAD (lapsed use of), picking-up forgotten coding ability from ZX Spectrum BASIC to Python & C; startring to learn Rust (slowly, time permitting).
+- 💞️ I’m looking to collaborate on CubeSat/TrunkSat: programming, space junk collection, astroid detection and deflection... also small robotics including solving rubik cube, etc. Rockets are great too so I'll be putting up a collabration project via British Interplanetary Society (BIS).
+- 📫 How to reach me via webform https://fsomers.xyz/contact/.
+-  I’m formally educated in various sciences, including Behavioural, Computing, Engineering (electromechanical {applied physics}) & I’m slowly working my way through Astrophysics (a bit start-stop-repeat currently… Covid, etc.). I’m a member of The Institution of Mechanical Engineers (IMechE) and The British Interplanetary Society (BIS). You can find more information about me here https://fsomers.xyz/home/. 
 - More stuff to come... 
 
 <!---
