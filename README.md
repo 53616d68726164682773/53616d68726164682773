@@ -3,7 +3,7 @@
 - 🌱 I’m currently picking-up forgotten coding ability from ZX Spectrum BASIC to Python & C; Rust is on future learn list.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me... via webform https://fsomers.xyz/contact/.
-- I’m formally educated in various science based subjects, including social & behavioural, computing & engineering.
+- I’m formally educated in various science based subjects, including social & behavioural, computing and engineering.
 - More stuff to come... 
 
 <!---
