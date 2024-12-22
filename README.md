@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Francis.
 - 👀 I’m interested in astronomy, mechanical clocks & watches, coding, cycling, etc.
-- 🌱 I’m currently picking-up forgotten coding ability from ZX Spectrum BASIC to Python & C; Rust is on future learn list.
+- 🌱 I’m currently picking-up forgotten coding ability from ZX Spectrum BASIC to Python & beyond.
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me... via webform https://fsomers.xyz/contact/.
-- I’m formally educated in various science based subjects, including social & behavioural, computing and engineering.
-- More stuff to come... 
+- 📫 How to reach me...
 
 <!---
 53616d68726164682773/53616d68726164682773 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
