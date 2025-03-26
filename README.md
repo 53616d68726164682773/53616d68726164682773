@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Francis.
+- 👋 Hi, I’m Arthur.
 - 👀 Science’y type, writer, programmer, analyst, scholar & horologist of sort; interested in mechanical clocks & watches, astronomy, coding, puzzles, table-top board gaming, cycling, etc. 
 - 🌱 I’m currently picking-up forgotten coding ability from ZX Spectrum BASIC to Python, Rust & beyond.
 - 💞️ I’m looking to collaborate on... Space vehicle & satellite projects, amongst other engineering stuff.
